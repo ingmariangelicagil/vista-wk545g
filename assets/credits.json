@@ -1,0 +1,40 @@
+[
+ {
+  "name": "care",
+  "source": "https://www.pexels.com/photo/7551667/",
+  "by": "Kampus Production",
+  "license": "Pexels license"
+ },
+ {
+  "name": "elder",
+  "source": "https://www.pexels.com/photo/7551620/",
+  "by": "Kampus Production",
+  "license": "Pexels license"
+ },
+ {
+  "name": "cleaning",
+  "source": "https://www.pexels.com/photo/5591908/",
+  "license": "Pexels license"
+ },
+ {
+  "name": "repairs",
+  "source": "https://www.pexels.com/photo/6419128/",
+  "license": "Pexels license"
+ },
+ {
+  "name": "electric",
+  "source": "https://www.pexels.com/photo/27928762/",
+  "by": "ranjeet",
+  "license": "Pexels license"
+ },
+ {
+  "name": "family",
+  "source": "https://www.pexels.com/photo/3819598/",
+  "license": "Pexels license"
+ },
+ {
+  "name": "aruba-1966",
+  "source": "https://commons.wikimedia.org/ (Rinus de Graaff, Archivo Nacional Aruba)",
+  "license": "CC0"
+ }
+]
